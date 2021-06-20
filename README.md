@@ -2,7 +2,7 @@
 
 A curated list of free resources availible to maintainers of open source projects.
 
-- [gitpod](https://www.gitpod.io/)
+- [Gitpod](https://www.gitpod.io/)
 
 ## Project Management
 
