@@ -2,6 +2,8 @@
 
 A curated list of free resources availible to maintainers of open source projects.
 
+- [gitpod](https://www.gitpod.io/)
+
 ## Project Management
 
 - Item 1.1
