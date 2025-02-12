@@ -2,6 +2,8 @@
 
 A curated list of free resources availible to maintainers of open source projects.
 
+🌐 The list of free goodies for open source is also available as a website at [FreeForOpenSource.com](https://freeforopensource.com/), making it easier to explore and navigate online.
+
 - [Gitpod](https://www.gitpod.io/)
 
 ## Project Management
