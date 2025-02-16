@@ -8,6 +8,8 @@ A **curated collection of free resources** for **open source projects and mainta
 
 🌐 The list of free resources for open source is also available as a website at [FreeForOpenSource.com](https://freeforopensource.com/), making it easier to explore and navigate online.
 
+📰 Stay updated with the latest free resources for startups by subscribing to our **newsletter** at [freeforopensource.substack.com](https://freeforopensource.substack.com/).
+
 ## ⭐ Why Star This Repo?
 
 Starring this repository helps more open source developers discover these free resources. If you find this list useful, please **star the repo** and share it with your network!
