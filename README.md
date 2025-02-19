@@ -22,6 +22,7 @@ Starring this repository helps more open source developers discover these free r
 - [JetBrains Open Source Support](https://www.jetbrains.com/community/opensource/) - Free access to JetBrains tools for open source projects.
 - [GitLab for Open Source](https://about.gitlab.com/solutions/open-source/) - Free GitLab Ultimate features, including 50,000 compute minutes.
 - [Docker-Sponsored Open Source Program](https://docs.docker.com/docker-hub/repos/manage/trusted-content/dsos-program/) - Free Docker benefits for open source projects.
+- [CodeRabbit for Open Source](https://www.coderabbit.ai/pricing) - Free AI-driven code reviews for public repositories on GitHub and GitLab.
 
 ### Monitoring & Security
 - [Sentry for Open Source](https://sentry.io/for/open-source/) - Free error tracking and performance monitoring.
