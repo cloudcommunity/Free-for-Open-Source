@@ -21,13 +21,13 @@ Starring this repository helps more open source developers discover these free r
 - [Vercel for OSS](https://vercel.com/oss) - Free hosting and serverless functions for open source projects.
 - [JetBrains Open Source Support](https://www.jetbrains.com/community/opensource/) - Free access to JetBrains tools for open source projects.
 - [GitLab for Open Source](https://about.gitlab.com/solutions/open-source/) - Free GitLab Ultimate features, including 50,000 compute minutes.
-- [Docker-Sponsored Open Source Program](https://docs.docker.com/docker-hub/repos/manage/trusted-content/dsos-program/) - Free Docker benefits for open source projects.
+- [Docker-Sponsored Open Source Program](https://docs.docker.com/docker-hub/repos/manage/trusted-content/dsos-program/) - Free Docker benefits for open source projects, including verified badges, repository logo customization, insights, analytics, and more.
 - [CodeRabbit for Open Source](https://www.coderabbit.ai/pricing) - Free AI-driven code reviews for public repositories on GitHub and GitLab.
 
 ### Monitoring & Security
 - [Sentry for Open Source](https://sentry.io/for/open-source/) - Free error tracking and performance monitoring.
 - [1Password for Open Source](https://github.com/1Password/for-open-source) - Free Teams account for secure credential storage.
-- [SignPath for Open Source Projects](https://about.signpath.io/product/open-source) - Free code signing certificate for open source projects.
+- [SignPath for Open Source Projects](https://about.signpath.io/product/open-source) - Open source projects can apply for a free code signing certificate through the SignPath Foundation.
 
 ### Cloud & Infrastructure
 - [AWS Promotional Credits for Open Source](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/) - Free AWS credits for CI/CD, performance testing, and artifact storage.
