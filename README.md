@@ -17,6 +17,7 @@ Starring this repository helps more open source developers discover these free r
 ## 🎁 Free Offers for Open Source
 
 ### Developer Tools & Hosting
+- [GitHub Free](https://github.com/pricing) - Free hosting, security updates, and automation for open source projects.
 - [GitHub Sponsors](https://github.com/sponsors) - Financial support for open source maintainers.
 - [Vercel for OSS](https://vercel.com/oss) - Free hosting and serverless functions for open source projects.
 - [JetBrains Open Source Support](https://www.jetbrains.com/community/opensource/) - Free access to JetBrains tools for open source projects.
