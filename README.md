@@ -31,6 +31,7 @@ Starring this repository helps more open source developers discover these free r
 - [Sentry for Open Source](https://sentry.io/for/open-source/) - Free error tracking and performance monitoring.
 - [1Password for Open Source](https://github.com/1Password/for-open-source) - Free Teams account for secure credential storage.
 - [SignPath for Open Source Projects](https://about.signpath.io/product/open-source) - Open source projects can apply for a free code signing certificate through the SignPath Foundation.
+- [SonarCloud for Open Source](https://www.sonarsource.com/plans-and-pricing/sonarcloud/) - Free static code analysis for open source projects. Includes unlimited public repositories, support for 30 languages, DevOps integration, and up to 50k lines in private projects.
 
 ### Cloud & Infrastructure
 - [AWS Promotional Credits for Open Source](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/) - Free AWS credits for CI/CD, performance testing, and artifact storage.
