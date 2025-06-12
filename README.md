@@ -24,6 +24,7 @@ Starring this repository helps more open source developers discover these free r
 - [GitLab for Open Source](https://about.gitlab.com/solutions/open-source/) - Free GitLab Ultimate features, including 50,000 compute minutes.
 - [Docker-Sponsored Open Source Program](https://docs.docker.com/docker-hub/repos/manage/trusted-content/dsos-program/) - Free Docker benefits for open source projects, including verified badges, repository logo customization, insights, analytics, and more.
 - [CodeRabbit for Open Source](https://www.coderabbit.ai/pricing) - Free AI-driven code reviews for public repositories on GitHub and GitLab.
+- [BrowserStack for Open Source](https://www.browserstack.com/open-source) - Lifetime access to BrowserStack's testing tools for open source projects, with unlimited testing and real device access.
 
 ### Monitoring & Security
 - [Sentry for Open Source](https://sentry.io/for/open-source/) - Free error tracking and performance monitoring.
